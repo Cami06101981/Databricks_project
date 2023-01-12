@@ -107,7 +107,7 @@
 -- MAGIC 
 -- MAGIC This information will then be used to build our DBSQL dashboard to track customer behavior and churn.
 -- MAGIC 
--- MAGIC Let's implement the following
+-- MAGIC Let's implement the following worflow
 -- MAGIC  
 -- MAGIC <div><img width="1100px" src="https://github.com/QuentinAmbard/databricks-demo/raw/main/retail/resources/images/lakehouse-retail/lakehouse-retail-churn-de.png"/></div>
 -- MAGIC 
